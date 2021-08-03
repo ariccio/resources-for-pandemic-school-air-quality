@@ -6,6 +6,8 @@ Aerosol and IAQ experts are currently inundated with requests to help individual
 
 COVID is an airborne disease. Although major health authorities have in the past denied the airborne transmission of coronavirus, and now obfuscate the roll of airborne transmission, it is a well established scientific fact. Throughout the pandemic, 11 scientists have been maintaining a compendium of this evidence and ways to protect yourself as a google doc, viewable here: [FAQs on Protecting Yourself from COVID-19 Aerosol Transmission](https://docs.google.com/document/d/1fB5pysccOHvxphpTmCG_TGdytavMmc1cUumn8m0pwzo/edit?usp=sharing). I recommend reading through it before asking questions, some may already be answered :)
 
+For a plain-english overview of airborne transmission, see this video: [Let’s talk about transmission of respiratory infectious diseases](https://www.youtube.com/watch?v=AGQYlrXzVJQ).
+
 # FAQs
 (including selected excerpts from the aforementioned FAQs)
 - [(3.2) Do the 1-2 m or 6 feet guidelines guarantee lack of infection indoors? *(shortcut: it'll help a little bit, but don't rely on it)*](https://docs.google.com/document/d/1fB5pysccOHvxphpTmCG_TGdytavMmc1cUumn8m0pwzo/edit#heading=h.26ef1mz2sz4n)
@@ -38,6 +40,12 @@ Where weather prohibits open windows, schools need to double down on other mitig
 
 For indoor lunches, this means extensive filtration is the only option. Consider much greater usage of portable HEPA filters in this environment, and monitor CO2 to discover dangerous cafeterias.
 
+#### CO2 metering
+
+CO2 metering can be a useful tool for finding poorly ventilated spaces, and [has been discussed by aersol scientists extensively](https://docs.google.com/document/d/1fB5pysccOHvxphpTmCG_TGdytavMmc1cUumn8m0pwzo/edit#heading=h.xle7ah5opqv2). I, @ariccio, have spent several months on crowsourced CO2 measurement through an app I built. High CO2 levels also drastically affect cognition, which *should* be of interest to schools in non-pandemic times. Widespread CO2 metering is one way to find poorly ventilated spaces. It is highly sensitive, and requires minimal training. CO2 levels can be tracked over time and monitored to detect changes in conditions and occupant behaviors. Good meters are widely available, if a tad bit expensive (~$200).
+
+With highly infectious strains of the virus circulating (like the now-dominant delta variant) CO2 should not be used as an indicator of *safety*, as the low minimum infectious dose required can spread even in well ventilated rooms. Experts recommend CO2 metering as one component in a layered mitigation strategy.
+
 # Filtration
 
 Mass market HEPA filters are widely available. However, sufficiently large ones are quite expensive. A long known option among DIY-minded folk has been to build our own high quality air filters from a box fan and some furnace filters.
@@ -57,3 +65,4 @@ Because eating is an inherently mask-prohibitive activity, experts recommend sch
 # Other resources:
 
 - [Masks4Canada Room Ventilation/Filtration Guide and Tip Sheet](https://docs.google.com/document/d/17tKk8Da8tnchtnp9ZRe7fPazGAmXtvoA-n4GZcY0_fQ/edit)
+- [US Department of Education: "Improving Ventilation in Schools, Colleges, and Universities to Prevent COVID-19"](https://www.ed.gov/coronavirus/improving-ventilation)
