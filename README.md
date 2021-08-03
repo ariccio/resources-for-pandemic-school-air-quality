@@ -40,6 +40,12 @@ Where weather prohibits open windows, schools need to double down on other mitig
 
 For indoor lunches, this means extensive filtration is the only option. Consider much greater usage of portable HEPA filters in this environment, and monitor CO2 to discover dangerous cafeterias.
 
+#### CO2 metering
+
+CO2 metering can be a useful tool for finding poorly ventilated spaces, and [has been discussed by aersol scientists extensively](https://docs.google.com/document/d/1fB5pysccOHvxphpTmCG_TGdytavMmc1cUumn8m0pwzo/edit#heading=h.xle7ah5opqv2). I, @ariccio, have spent several months on crowsourced CO2 measurement through an app I built. High CO2 levels also drastically affect cognition, which *should* be of interest to schools in non-pandemic times. Widespread CO2 metering is one way to find poorly ventilated spaces. It is highly sensitive, and requires minimal training. CO2 levels can be tracked over time and monitored to detect changes in conditions and occupant behaviors. Good meters are widely available, if a tad bit expensive (~$200).
+
+With highly infectious strains of the virus circulating (like the now-dominant delta variant) CO2 should not be used as an indicator of *safety*, as the low minimum infectious dose required can spread even in well ventilated rooms. Experts recommend CO2 metering as one component in a layered mitigation strategy.
+
 # Filtration
 
 Mass market HEPA filters are widely available. However, sufficiently large ones are quite expensive. A long known option among DIY-minded folk has been to build our own high quality air filters from a box fan and some furnace filters.
