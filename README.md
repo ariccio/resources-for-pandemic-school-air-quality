@@ -32,6 +32,10 @@ If you're not familiar with them, they're an excellent group of individuals doin
 You can see [their page on kids & school here](https://covidstraighttalk.org/kids).
 They have an excellent list of other resources here: [Resources We Love](https://covidstraighttalk.org/resources)
 
+# Masking
+
+Masking *-with any kind of face covering-* is extremely effective as source control. With COVID however, source control alone is not enough to protect people. Surgical and cloth masks lack the fit quality to reliably filter out all aersols. Higher grade masks, including N95s, KN95s, elastomerics, and even newer well-fitting Spun Bound PolyPropylene masks, all offer vastly improved protection to the wearer. [When healthcare workers in the UK were issued N95 masks, transmission of COVID stopped entirely within days](https://authorea.com/users/421653/articles/527590-ffp3-respirators-protect-healthcare-workers-against-infection-with-sars-cov-2). 
+
 # Ventilation
 #### Target a minimum of ~6 air changes per hour (ACH) of clean air delivery.
 Clean air in this context means air free of virus bearing aprtciles. So it can be a combiantion of outdoor air, filtered recirculated air, and air filtered in situ by portable air cleaners. Delta covid has been documented to transmit at far higher levels of ventilation, so we cannot rely on ventilation as a single control measure.
