@@ -59,3 +59,4 @@ Because eating is an inherently mask-prohibitive activity, experts recommend sch
 # Other resources:
 
 - [Masks4Canada Room Ventilation/Filtration Guide and Tip Sheet](https://docs.google.com/document/d/17tKk8Da8tnchtnp9ZRe7fPazGAmXtvoA-n4GZcY0_fQ/edit)
+- [US Department of Education: "Improving Ventilation in Schools, Colleges, and Universities to Prevent COVID-19"](https://www.ed.gov/coronavirus/improving-ventilation)
