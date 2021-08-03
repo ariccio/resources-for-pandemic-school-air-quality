@@ -14,6 +14,7 @@ If you're not familiar with them, they're an excellent group of individuals doin
 
 
 You can see [their page on kids & school here](https://covidstraighttalk.org/kids).
+They have an excellent list of other resources here: [Resources We Love](https://covidstraighttalk.org/resources)
 
 # Ventilation
 Target ~6 air changes per hour (ACH) of clean air delivery.
