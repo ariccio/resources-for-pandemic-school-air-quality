@@ -34,7 +34,11 @@ They have an excellent list of other resources here: [Resources We Love](https:/
 
 # Masking
 
-Masking *-with any kind of face covering-* is extremely effective as source control. With COVID however, source control alone is not enough to protect people. Surgical and cloth masks lack the fit quality to reliably filter out all aersols. Higher grade masks, including N95s, KN95s, elastomerics, and even newer well-fitting Spun Bound PolyPropylene masks, all offer vastly improved protection to the wearer. [When healthcare workers in the UK were issued N95 masks, transmission of COVID stopped entirely within days](https://authorea.com/users/421653/articles/527590-ffp3-respirators-protect-healthcare-workers-against-infection-with-sars-cov-2). 
+Masking *-with any kind of face covering-* is extremely effective as source control. With COVID however, source control alone is not enough to protect people. Surgical and cloth masks lack the fit quality to reliably filter out all aersols. Higher grade masks, including N95s, KN95s, elastomerics, and even newer well-fitting Spun Bound PolyPropylene masks, all offer vastly improved protection to the wearer. [When healthcare workers in the UK were issued N95 masks, transmission of COVID stopped entirely within days](https://authorea.com/users/421653/articles/527590-ffp3-respirators-protect-healthcare-workers-against-infection-with-sars-cov-2). [Patient Knowhow](https://www.patientknowhow.com/) has excellent information on higher grade respirators.
+
+Originally, we were all concerned that masks with valves would not provide adequate source control. I, @ariccio, spent the first year of the pandemic covering the exhalation valve on my OV/P100 respirator with a surgical mask. Even with that measure, some institutions would not let me enter if I was wearing a mask with a valve. Sure, it made no sense, but it was, and still is, the reality that many people face. These people might want to try and buy higher grade respirators that do not have a valve just in case - they are definitley available!
+
+We now know that masks with valves actually provide *better* source control than surgical masks alone, largely because they have better fitment to begin with. This information is not well known. 
 
 # Ventilation
 #### Target a minimum of ~6 air changes per hour (ACH) of clean air delivery.
