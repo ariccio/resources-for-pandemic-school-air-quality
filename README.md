@@ -17,5 +17,5 @@ You can see [their page on kids & school here](https://covidstraighttalk.org/kid
 They have an excellent list of other resources here: [Resources We Love](https://covidstraighttalk.org/resources)
 
 # Ventilation
-Target ~6 air changes per hour (ACH) of clean air delivery.
-Clean air in this context means air free of virus bearing aprtciles. So it can be a combiantion of outdoor air, filtered recirculated air, and air filtered in situ by portable air cleaners. 
+#### Target a minimum of ~6 air changes per hour (ACH) of clean air delivery.
+Clean air in this context means air free of virus bearing aprtciles. So it can be a combiantion of outdoor air, filtered recirculated air, and air filtered in situ by portable air cleaners. Delta covid has been documented to transmit at far higher levels of ventilation, so we cannot rely on ventilation as a single control measure.
