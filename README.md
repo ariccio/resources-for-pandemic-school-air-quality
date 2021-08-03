@@ -14,11 +14,12 @@ COVID is an airborne disease. Although major health authorities have in the past
 - [(7.14) Are plexiglass barriers helpful? *(shortcut: NO)*](https://docs.google.com/document/d/1fB5pysccOHvxphpTmCG_TGdytavMmc1cUumn8m0pwzo/edit#heading=h.3zjc51xkr2bl)
 - [(10.2) Are portable air cleaners useful? Which types do you recommend?](https://docs.google.com/document/d/1fB5pysccOHvxphpTmCG_TGdytavMmc1cUumn8m0pwzo/edit#heading=h.yotaztejwdhm)
 - [(10.5) Is there a cheaper alternative to a HEPA air cleaner?](https://docs.google.com/document/d/1fB5pysccOHvxphpTmCG_TGdytavMmc1cUumn8m0pwzo/edit#heading=h.62m43q76djwy)
+  - [COVID straight talk also has an excellent guide to DIY air cleaners!](https://covidstraighttalk.org/air-cleaner-guide). See also, below.
 - [(10.6) How do I select the right HEPA air cleaner? (or fan-filter cleaner)](https://docs.google.com/document/d/1fB5pysccOHvxphpTmCG_TGdytavMmc1cUumn8m0pwzo/edit#heading=h.67esuhk8hc5n)
-  - [COVID straight talk also has an excellent guide to air cleaners!](https://covidstraighttalk.org/air-cleaner-guide)
-  - *NO IONIZERS*
+  - [COVID straight talk also has an excellent guide to selecting air cleaners!](https://covidstraighttalk.org/air-cleaner-guide)
+  - [***NO IONIZERS***](https://twitter.com/jljcolorado/status/1291758303089852417)
 - [(10.10) Do you recommend portable air cleaners that are not based on filtration?](https://docs.google.com/document/d/1fB5pysccOHvxphpTmCG_TGdytavMmc1cUumn8m0pwzo/edit#heading=h.3y2gnhvc76rr)
-  - [Jose-Luis Jimenez's thread](https://twitter.com/jljcolorado/status/1291758303089852417)
+  - See also: [Jose-Luis Jimenez's thread](https://twitter.com/jljcolorado/status/1291758303089852417)
 
 # COVID Straight Talk
 
