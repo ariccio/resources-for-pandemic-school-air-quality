@@ -29,6 +29,14 @@ You can see [their page on kids & school here](https://covidstraighttalk.org/kid
 They have an excellent list of other resources here: [Resources We Love](https://covidstraighttalk.org/resources)
 
 # Ventilation
-#### Target a minimum of ~6 air changes per h
-our (ACH) of clean air delivery.
+#### Target a minimum of ~6 air changes per hour (ACH) of clean air delivery.
 Clean air in this context means air free of virus bearing aprtciles. So it can be a combiantion of outdoor air, filtered recirculated air, and air filtered in situ by portable air cleaners. Delta covid has been documented to transmit at far higher levels of ventilation, so we cannot rely on ventilation as a single control measure.
+
+Where weather prohibits open windows, schools need to double down on other mitigations, like filtration. Ideally, schools would install [Energy Recovery Ventilators](https://en.wikipedia.org/wiki/Energy_recovery_ventilation) to bring in filtered fresh air, but it is likely too late for school districts to invest in that solution. For indoor lunches, this means extensive filtration is the only option. Consider much greater usage of portable HEPA filters in this environment, and monitor CO2 to discover dangerous cafeterias.
+
+
+# Lunchtime
+
+Because our elected officials have decided to allow people to remove their masks indoors to eat, especially at restaurants, people have been lulled into letting students eat together indoors. This is no safer than any other indoor activity without masks. This is nothing more than a convenience to cover for the fact that we have failed to financially support restaurants. [Some politicans seem to understand this, but use their understanding to divide rather than protect](https://www.nbcnews.com/video/sen-cruz-mocks-covid-regulations-during-cpac-remarks-101646405830). Indoor dining is [likely one of the causes behind outbreaks at the mayo clinic, where staff removed their masks to eat](https://minnesota.cbslocal.com/2020/11/18/900-mayo-clinic-staff-in-mn-and-wi-test-positive-for-covid-in-two-weeks/). [In November 2020, korean researchers confirmed the long distance spread of COVID in a restaurant](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7707926/).
+
+Because eating is an inherently mask-prohibitive activity, experts recommend schools require lunch be eaten outdoors (in fresh air) wherever possible. When outdoor lunchtime is NOT possible, apply all airborne mitigations as much as possible and minimize eating time to protect students. Where weather is the prohibitive factor in outdoor dining, schools will likely not be able to open windows widely. This means extensive filtration is the only option. Consider much greater usage of portable HEPA filters in this environment, and monitor CO2 to discover dangerous environments.
