@@ -15,6 +15,7 @@ COVID is an airborne disease. Although major health authorities have in the past
 - [(10.2) Are portable air cleaners useful? Which types do you recommend?](https://docs.google.com/document/d/1fB5pysccOHvxphpTmCG_TGdytavMmc1cUumn8m0pwzo/edit#heading=h.yotaztejwdhm)
 - [(10.5) Is there a cheaper alternative to a HEPA air cleaner?](https://docs.google.com/document/d/1fB5pysccOHvxphpTmCG_TGdytavMmc1cUumn8m0pwzo/edit#heading=h.62m43q76djwy)
 - [(10.6) How do I select the right HEPA air cleaner? (or fan-filter cleaner)](https://docs.google.com/document/d/1fB5pysccOHvxphpTmCG_TGdytavMmc1cUumn8m0pwzo/edit#heading=h.67esuhk8hc5n)
+  - [COVID straight talk also has an excellent guide to air cleaners!](https://covidstraighttalk.org/air-cleaner-guide)
   - *NO IONIZERS*
 - [(10.10) Do you recommend portable air cleaners that are not based on filtration?](https://docs.google.com/document/d/1fB5pysccOHvxphpTmCG_TGdytavMmc1cUumn8m0pwzo/edit#heading=h.3y2gnhvc76rr)
   - [Jose-Luis Jimenez's thread](https://twitter.com/jljcolorado/status/1291758303089852417)
@@ -33,6 +34,9 @@ They have an excellent list of other resources here: [Resources We Love](https:/
 Clean air in this context means air free of virus bearing aprtciles. So it can be a combiantion of outdoor air, filtered recirculated air, and air filtered in situ by portable air cleaners. Delta covid has been documented to transmit at far higher levels of ventilation, so we cannot rely on ventilation as a single control measure.
 
 Where weather prohibits open windows, schools need to double down on other mitigations, like filtration. Ideally, schools would install [Energy Recovery Ventilators](https://en.wikipedia.org/wiki/Energy_recovery_ventilation) to bring in filtered fresh air, but it is likely too late for school districts to invest in that solution. For indoor lunches, this means extensive filtration is the only option. Consider much greater usage of portable HEPA filters in this environment, and monitor CO2 to discover dangerous cafeterias.
+
+# Filtration
+
 
 
 # Lunchtime
