@@ -34,10 +34,18 @@ They have an excellent list of other resources here: [Resources We Love](https:/
 #### Target a minimum of ~6 air changes per hour (ACH) of clean air delivery.
 Clean air in this context means air free of virus bearing aprtciles. So it can be a combiantion of outdoor air, filtered recirculated air, and air filtered in situ by portable air cleaners. Delta covid has been documented to transmit at far higher levels of ventilation, so we cannot rely on ventilation as a single control measure.
 
-Where weather prohibits open windows, schools need to double down on other mitigations, like filtration. Ideally, schools would install [Energy Recovery Ventilators](https://en.wikipedia.org/wiki/Energy_recovery_ventilation) to bring in filtered fresh air, but it is likely too late for school districts to invest in that solution. For indoor lunches, this means extensive filtration is the only option. Consider much greater usage of portable HEPA filters in this environment, and monitor CO2 to discover dangerous cafeterias.
+Where weather prohibits open windows, schools need to double down on other mitigations, like filtration. Ideally, schools would install [Energy Recovery Ventilators](https://en.wikipedia.org/wiki/Energy_recovery_ventilation) to bring in filtered fresh air, but it is likely too late for school districts to invest in that solution. *(sidenote: I, @ariccio, have been saying since March 2020 that we should've invoked the defense production act to manufacture millions of energy recovery ventilators, but who would listen to me?)*
+
+For indoor lunches, this means extensive filtration is the only option. Consider much greater usage of portable HEPA filters in this environment, and monitor CO2 to discover dangerous cafeterias.
 
 # Filtration
 
+Mass market HEPA filters are widely available. However, sufficiently large ones are quite expensive. A long known option among DIY-minded folk has been to build our own high quality air filters from a box fan and some furnace filters.
+
+The simplest option uses one or two furnace filters, but that doesn't provide much filtered air: 
+![HACKS-V2-02 (1)](https://user-images.githubusercontent.com/2142308/128089885-256d6351-8430-4182-b7d7-578335b08be5.jpg)
+
+A more advanced option is called a Corsi/Rosenthal box, after the two individuals who popularized it most. It's even been [ritten about in wired!](https://www.wired.com/story/could-a-janky-jury-rigged-air-purifier-help-fight-covid-19/) Since it's not a mass market solution, many institutions have been hesitant to try them. Good instructions for building a basic Corsi/Rosenthal box are available here: [A Variation on the “Box Fan with MERV 13 Filter” Air Cleaner](https://www.texairfilters.com/a-variation-on-the-box-fan-with-merv-13-filter-air-cleaner/), and a slightly better version here: [How to Improve the Efficiency of the “Box Fan and MERV 13 Filter” Air Cleaner](https://www.texairfilters.com/how-to-improve-the-efficiency-of-the-box-fan-and-merv-13-filter-air-cleaner/).
 
 
 # Lunchtime
