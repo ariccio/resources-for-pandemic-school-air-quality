@@ -4,7 +4,7 @@ Aerosol and IAQ experts are currently inundated with requests to help individual
 
 # Background
 
-COVID is an airborne disease. Although major health authorities have in the past denied the airborne transmission of coronavirus, and now obfuscate the roll of airborne transmission, it is a well established scientific fact. Throughout the pandemic, 11 scientists have been maintaining a compendium of this evidence and ways to protect yourself as a google doc, viewable here: [FAQs on Protecting Yourself from COVID-19 Aerosol Transmission](https://docs.google.com/document/d/1fB5pysccOHvxphpTmCG_TGdytavMmc1cUumn8m0pwzo/edit?usp=sharing).
+COVID is an airborne disease. Although major health authorities have in the past denied the airborne transmission of coronavirus, and now obfuscate the roll of airborne transmission, it is a well established scientific fact. Throughout the pandemic, 11 scientists have been maintaining a compendium of this evidence and ways to protect yourself as a google doc, viewable here: [FAQs on Protecting Yourself from COVID-19 Aerosol Transmission](https://docs.google.com/document/d/1fB5pysccOHvxphpTmCG_TGdytavMmc1cUumn8m0pwzo/edit?usp=sharing). I recommend reading through it before asking questions, some may already be answered :)
 
 
 # COVID Straight Talk
