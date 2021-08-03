@@ -9,7 +9,7 @@ COVID is an airborne disease. Although major health authorities have in the past
 # FAQs
 (including selected excerpts from the aforementioned FAQs)
 - [(3.2) Do the 1-2 m or 6 feet guidelines guarantee lack of infection indoors? *(shortcut: it'll help a little bit, but don't rely on it)*](https://docs.google.com/document/d/1fB5pysccOHvxphpTmCG_TGdytavMmc1cUumn8m0pwzo/edit#heading=h.26ef1mz2sz4n)
-- [(5.3) Are schools safe?](https://docs.google.com/document/d/1fB5pysccOHvxphpTmCG_TGdytavMmc1cUumn8m0pwzo/edit#heading=h.6nt75w3pdqgq)
+- [(5.3) Are schools safe? *(shortcut: not without extensive mitigations)*](https://docs.google.com/document/d/1fB5pysccOHvxphpTmCG_TGdytavMmc1cUumn8m0pwzo/edit#heading=h.6nt75w3pdqgq)
 - [(8.1) What do you mean by ventilation?](https://docs.google.com/document/d/1fB5pysccOHvxphpTmCG_TGdytavMmc1cUumn8m0pwzo/edit#heading=h.79vzdbrw13y2)
 - [(7.14) Are plexiglass barriers helpful? *(shortcut: NO)*](https://docs.google.com/document/d/1fB5pysccOHvxphpTmCG_TGdytavMmc1cUumn8m0pwzo/edit#heading=h.3zjc51xkr2bl)
 - [(10.2) Are portable air cleaners useful? Which types do you recommend?](https://docs.google.com/document/d/1fB5pysccOHvxphpTmCG_TGdytavMmc1cUumn8m0pwzo/edit#heading=h.yotaztejwdhm)
