@@ -30,7 +30,7 @@ For a plain-english overview of airborne transmission, see this video: [Let’s 
 
 1. Q: *Given that the delta variant is 2x as contagious and can be carried by vaccinated individuals, can the virus be effectively spread outside among vaccinated people? unvaccinated children? If so, how safe is it to interact with someone outside of your "bubble" six feet apart, masked? And unmasked? Is it safe to sit closer?*
 
-A: "Effective" is a hard to agree upon term. We know that delta can transmit outdoors! This has been [documented in the news](https://www.forbes.com/sites/brucelee/2021/07/12/outdoor-wedding-6-fully-vaccinated-infected-with-covid-19-delta-variant/?sh=14ae10216c49) and [in the literature](https://pubmed.ncbi.nlm.nih.gov/34268529/). It's much less common though, and that's why we encourage any activity that requires mask removal to be done outside. If we were pursuing a "zero covid" strategy, this risk would be unacceptable.
+A: "Effective" is a hard to agree upon term. Your children will be fairly safe playing ourdoors, certainly way safer than indoors. But... we know that delta can transmit outdoors! This has been [documented in the news](https://www.forbes.com/sites/brucelee/2021/07/12/outdoor-wedding-6-fully-vaccinated-infected-with-covid-19-delta-variant/?sh=14ae10216c49) and [in the literature](https://pubmed.ncbi.nlm.nih.gov/34268529/). It's much less common though, and that's why we encourage any activity that requires mask removal to be done outside. If we were pursuing a "zero covid" strategy, this risk would be unacceptable.
 
 Any increase in distance *outdoors* will increase dilution of aerosols, and reduce the chance of infection. A good breeze will improve your protection further. BUT distance is not a reliable way to ensure protection. Masking will work outdoors just as well as, or better than, indoors! Simple surgical and cloth masks will greatly reduce the chance an contagious individual will infect others. If all parties wear N95 masks or higher grade elastomeric masks for the entire interaction, you'll have near perfect protection, no matter how close or vaccinated you are.
 
@@ -90,6 +90,42 @@ Personally, I have been able to attend packed NYC bars and drink with the holdin
 
 The aforementioned ["FAQs on Protecting Yourself from COVID-19 Aerosol Transmission"](https://docs.google.com/document/d/1fB5pysccOHvxphpTmCG_TGdytavMmc1cUumn8m0pwzo) has a section on air travel, but that was written when masking was actually well enforced on planes. I've heard from a number of people that enforcement of proper mask wearing (over mouth and nose) is not so great or uniform.
 
+10. Q: *How safe is it to walk down a "main street" on a moderately busy day? Do you need to be masked? Is the concern breathing in aerosol droplets hanging in the air? Or that someone will sneeze / cough on you? How important is it to maintain a 6 foot distance from someone if you are simply walking by them, or running by them, outside?*
+
+A: Dr. Prather has told me in the past that it's relatively safe, but every Main Street is a bit different. This will come down to both your personal risk tolerance and crowding of the street. Good masks will remove the uncertainty in the situation by providing good protection, and I still wear my mask on the crowded streets of Manhattan in part for that reason. Here in Manhattan, my street is often crowded enough for me to be in the exhaled cloud of someone's cigarette smoke, which is one way to think about the risk of contracting the virus outside. If your Main Street is wide and uncrowded enough that you're not going to smell someone's secondhand smoke, you're probably pretty safe.
+
+11. Q: *How long does the virus hang in the air for, outside? Does the delta variant hang in the air for the same length in time as the original?*
+
+A: See section 3.4 of ["FAQs on Protecting Yourself from COVID-19 Aerosol Transmission"](https://docs.google.com/document/d/1fB5pysccOHvxphpTmCG_TGdytavMmc1cUumn8m0pwzo) for *IN*door aerosols. *OUT*door aerosols are the same aersols, but because there's air movement outdoors, they don't hang around. The more wind, the faster the aerosols dilute. Delta seems to produce a higher viral load (and thus higher shedding), so it's easier to be infected by Delta given similar circumstances, but they're still the same aerosols. They don't hang around longer, there's just more virus floating around. 
+
+
+12. Q: *We are each in circumstances where we are necessarily exposed to someone (a colleague at work, caregiver, nanny, etc) who believes it's ok to unmask when a child / immunocompromised person / etc leaves the room. Is there anything that you would say to that person to help convince them to stay masked when indoors / on the job, even when someone else isn't present?*
+
+A: Perhaps the smoke analogy would help. If they smoke only when there's nobody in the room, the smoke will still be there in the air when people return. We encourage you to try, but it's probably a habit after almost two years of doing it. Change in their behavior might be slow. Improve your own PPE in the mean time!
+
+13. Q: *Some of us are single and live alone. Dating, after two years, feels important. Is there a way to safely do this in person and still be around pregnant / unvaccinated / or immunocompromised loved ones?*
+
+A: Uggh, I sympathize with this. It does also depend on your personal risk tolerance, but there are ways to protect your loved ones. If you can, practice good COVID safety when you're dating. Mask as much as possible with good masks, and date vaccinated folk. Anti-vaxxers may not make good partners in other respects. If you go out to crowded bars and clubs, try to remain masksed as much as possible. Where you have access, get a PCR test 4-5 days after anything risky, and don't see your loved ones before then. Lastly, when you're with your loved ones, wear a mask yourself... this is harder if you live with them. It's all way harder if you live with them.
+
+14. Q: *How safe is it to swim with a group in the ocean? Or a pool?*
+
+A: Thankfully, COVID isn't waterborne, though it can get aerosolized if you're near a sewer outlet! You can't really wear a mask while in a pool or the ocean though, so in that circumstance, your risk is the same (fairly low) as any other outdoor maskless recreation. Distance and wind help.
+
+15. Q: *Is it possible to contract covid, indoors or outdoors, if correctly wearing a K95 mask and eyeglasses?*
+
+A: Possible, yes. Likely, no. It's probably more likely that the mask fitment isn't right than for the mask to fail. KN94/95s and N95s are hard to fit check, so lots of people don't have them on right. Any kind of facial hair will mess with the seal. Wearing a surgical mask UNDER the N95 will disrupt the seal (I see this a lot). With an elastomeric respirator, you can often fit check pretty easily by covering the filters with your hand and then trying to inhale. Fitment was one of the original (bad) reasons given for why governments and institutions recommended against the use of N95s. In every event though, you're better off with a KN94/95, N95, or elastomeric respirator.
+
+There is also the risk of fraudulent or counterfeit masks. I have no advice there, other than to buy from good suppliers and American brands. 
+
+16. Q: *If one masked person is next to an unmasked person outside, how safe is the unmasked person? (Ie if a pregnant woman / child / immunocomprosied person can’t wear a mask at a given moment…is that ok? Ie getting a kid a haircut or an immunocompromised person a physical therapy session) If not safe, is it safe if both parties are wearing a mask?*
+
+A: Safety is relative of course. If you want to minimize risk, you want to minimize unmasked contact. If someone has to be unmasked, make sure as many of everybody else is masked. An unmasked person outside is probably pretty safe from being infected by a masked person outside. Higher grade masks help here too. Higher grade masks - *even, somewhat surprisingly, those with exhalation valves* - provide better source control than surgical masks because of their better fitment.
+
+You might be able to get a haircut or go to physical therapy while wearing a mask anyways. I've done both myself without needing to remove the mask. I hold it on my face manually during haircuts.
+
+17. Q: *What's the level of concern that the next variant will mutate in vaccinated people and therefore, is immune to the vaccine altogether?*
+
+A: We (both the scientists and the activists) are quite concerned about it as there's significant evolutionary pressure in a partially vaccinated population, but we don't have numbers. That would be bad.
 
 # COVID Straight Talk
 
