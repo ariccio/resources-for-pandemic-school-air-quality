@@ -26,6 +26,8 @@ For a plain-english overview of airborne transmission, see this video: [Let’s 
 
 #### FAQs from the public
 
+###### a member of the public sent Kim Prather these questions in a private email, I'm answering them here for everyone's benefit
+
 1. Q: *Given that the delta variant is 2x as contagious and can be carried by vaccinated individuals, can the virus be effectively spread outside among vaccinated people? unvaccinated children? If so, how safe is it to interact with someone outside of your "bubble" six feet apart, masked? And unmasked? Is it safe to sit closer?*
 
 A: "Effective" is a hard to agree upon term. We know that delta can transmit outdoors! This has been [documented in the news](https://www.forbes.com/sites/brucelee/2021/07/12/outdoor-wedding-6-fully-vaccinated-infected-with-covid-19-delta-variant/?sh=14ae10216c49) and [in the literature](https://pubmed.ncbi.nlm.nih.gov/34268529/). It's much less common though, and that's why we encourage any activity that requires mask removal to be done outside. If we were pursuing a "zero covid" strategy, this risk would be unacceptable.
@@ -36,9 +38,11 @@ Any increase in distance *outdoors* will increase dilution of aerosols, and redu
 
 A: Depending on your risk tolerance, there are a few non-mask options that may help. Choosing to play outside only on windy days might be a good option. You might also ask about their adult family's vaccination status, and how they have been protecting themselves from COVID. If all members of their household *always* wear high quality masks when sharing air with others, then their risk of *having* COVID is low in the first place. Protecting themselves helps protect you.
 
-3. Q: *3. Is there an at home saliva based test that can be purchased for same day results? If so, does this test measure whether you have covid or your capacity to spread it?*
+3. Q: *Is there an at home saliva based test that can be purchased for same day results? If so, does this test measure whether you have covid or your capacity to spread it?*
 
-A: I (@ariccio) have personally seen and purchashed `Abbott BinaxNOW` COVID-19 self tests at my local Walgreens. 
+A: I (@ariccio) have personally seen and purchashed `Abbott BinaxNOW` COVID-19 self tests at my local Walgreens. These are nasal swab tests. [These are the same tests that were used by the past administration's White House team to screen guests before maskless activities](https://www.nytimes.com/2020/10/06/health/covid-white-house-testing.html). [You may remember the Rose Garden Outbreak](https://en.wikipedia.org/wiki/White_House_COVID-19_outbreak), where a number of individuals who'd used rapid tests later spread or contracted the virus. This, and other cases, show that we should not use them as an indication of safety to relax other precautions. We've heard rumors that they're less effective at detecting Delta, but [recent science](https://www.nature.com/articles/s41598-021-94055-1) seems to suggest that it's no worse than for earlier variants. Routine self-testing is good, and many scientists recommend it, but you should be aware of the limitations. I still test myself every now and then. I do not know about saliva tests.
+
+If you want the details:
 
 Back in *January 2021* the [CDC released a report](https://www.cdc.gov/mmwr/volumes/70/wr/mm7003e3.htm) that said (in part): 
 
@@ -48,7 +52,44 @@ Compared with real-time RT-PCR testing, the BinaxNOW antigen test had a sensitiv
 
 *([see also, definitions of sensitivity and specificity](https://ebn.bmj.com/content/23/1/2).)*
 
-...in short, the sensitivity 
+...in short, the tests were better at detecting the virus in symptomatic people than asymptomatic. Which of course, asymptomatic spread is the real cause for concern.
+
+4. Q: *We have read studies that people who have mild covid are more likely to have long covid. Is that true?*
+
+A: It's hard to say. TBA.
+
+5. Q: *If yes to #4, and vaccinated people are most likely to have mild covid, are you concerned about vaccinated people having greater susceptibility to long covid? Are there any studies on this yet?*
+
+A: TBA
+
+6. Q: *With Delta, can the virus be contracted via surfaces or food? Or is it still simply airborne?*
+
+A: While we think it's still possible that it can be contracted by surfaces or food, it seems quite rare. The CDC suggests that it's something like 1 in 10,000 cases. **We recommend that you focus most on airborne precautions!**
+
+7. Q: *Under what circumstances is it safe to be in friend's home, masked or unmasked? IE - for mental health, could someone come over to sit and watch a movie? Do both parties need to be masked? Or is it safe enough if one person is masked and the pregnant / immunocompromised person is not? Is it safe if there are open windows, doors, or with a specific type of HVAC system?*
+
+A: As with other situations, the answer does depend a bit on your own risk tolerance. We cannot give advice on your mental health needs, but we can help you stay safe while doing what you need to do. Any and all unmasked activities present *the risk* of transmission, so it's better to wear a mask whenever that's an option! The risk of serious illness or death for immunocompromised COVID cases is much higher, so you should take care to relax precautions in those cases. Better masks, N95s and elastomerics, provide truly excellent protection when worn reliably indoors, and may enable you to safely participate in activities that would be very risky unmasked or with surgical masks.
+
+As with other indoor spaces, ventilation is an additional and important measure to reduce the spread. Anything you can do to reduce the aerosols will help. [COVID straight talk has a page aimed at essential workers](https://covidstraighttalk.org/employers-of-essential-workers) with a good general overview of improving indoor safety! They also have a [separate page of "hacks"](https://covidstraighttalk.org/hacks) you can do to improve ventilation indoors. If you are to hang out unmasked, then the other "controls" (ventilation, filtration, etc...) are much more important to be safe. CO2 metering can be helpful to find out if their home is poorly ventilated, especially if they are not knowledgeable about their home HVAC.
+
+If you want to go into more detail, see sections 3, 5.7, 7, 8, and 10, of ["FAQs on Protecting Yourself from COVID-19 Aerosol Transmission"](https://docs.google.com/document/d/1fB5pysccOHvxphpTmCG_TGdytavMmc1cUumn8m0pwzo) - there's a lot of good stuff in there :)
+
+
+8. Q: *In your opinion, how safe is it to go grocery shopping or to be inside stores while wearing a mask and glasses?*
+
+A: Grocery stores are known superspreader locations, and given the lack of mask wearing nowadays, they can be risky. If you're truly highest risk, you can still get groceries delivered, but that may not be an option for you. You likely cannot control the ventilation in the store or the behavior of other patrons. CO2 metering may help you find stores that are better ventilated - I (@ariccio) now know which stores in my neighborhood have poor ventilation, and avoid them - but you may not have other store options. You can control the PPE that you wear, and that's what will make the difference between a safe and a risky shopping experience. N95s and especially elastomerics can provide quite good protection (especially in environments where nobody else masks), and we very highly recommend their use. Face shields and glasses likely help too, but not as much as high quality masks, and they should never be used *instead of* good masks.
+
+9. Q: *In your opinion, how safe is it to travel on a plane if wearing 2 masks and a face shield?*
+
+A: Air travel encompasses many different environments and risks presented. Some terminals might be riskier than others in visible (crowding) and less visible (ventilation) ways. I have seen, from volunteers on twitter, and submitting data to my app, that it even varies quite a bit by location in the terminal and by the point in the flight. Volunteers report extremely high CO2 levels - i.e. recirculated air - when planing and deplaning, as the AC is unpowered. As with other questions, it depends a lot on your own risk tolerance, but also on the instant spread of COVID when you're traveling.
+
+What you can control is the quality of mask you wear, and how you wear it. If you wear a high-quality well-fitting mask (an N95 or better yet, an elastomeric), and keep it on the entire flight, your risk of infection is low. Adding a face shield will likely help. Do not remove the mask to eat, drink, or any other breathing activity: that defeats the purpose. If you must remove it to drink or eat something (you're human, you probabily will!) I find that with a bit of practice I can hold my breath, pull the mask down, eat/drink, then put the mask back on. 
+
+Personally, I have been able to attend packed NYC bars and drink with the holding-breath method without infection. I don't recommend it, but it's a fun fact.
+
+
+The aforementioned ["FAQs on Protecting Yourself from COVID-19 Aerosol Transmission"](https://docs.google.com/document/d/1fB5pysccOHvxphpTmCG_TGdytavMmc1cUumn8m0pwzo) has a section on air travel, but that was written when masking was actually well enforced on planes. I've heard from a number of people that enforcement of proper mask wearing (over mouth and nose) is not so great or uniform.
+
 
 # COVID Straight Talk
 
