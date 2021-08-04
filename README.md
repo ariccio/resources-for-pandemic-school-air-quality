@@ -23,6 +23,33 @@ For a plain-english overview of airborne transmission, see this video: [Let’s 
 - [(10.10) Do you recommend portable air cleaners that are not based on filtration?](https://docs.google.com/document/d/1fB5pysccOHvxphpTmCG_TGdytavMmc1cUumn8m0pwzo/edit#heading=h.3y2gnhvc76rr)
   - See also: [Jose-Luis Jimenez's thread](https://twitter.com/jljcolorado/status/1291758303089852417)
 
+
+#### FAQs from the public
+
+1. Q: *Given that the delta variant is 2x as contagious and can be carried by vaccinated individuals, can the virus be effectively spread outside among vaccinated people? unvaccinated children? If so, how safe is it to interact with someone outside of your "bubble" six feet apart, masked? And unmasked? Is it safe to sit closer?*
+
+A: "Effective" is a hard to agree upon term. We know that delta can transmit outdoors! This has been [documented in the news](https://www.forbes.com/sites/brucelee/2021/07/12/outdoor-wedding-6-fully-vaccinated-infected-with-covid-19-delta-variant/?sh=14ae10216c49) and [in the literature](https://pubmed.ncbi.nlm.nih.gov/34268529/). It's much less common though, and that's why we encourage any activity that requires mask removal to be done outside. If we were pursuing a "zero covid" strategy, this risk would be unacceptable.
+
+Any increase in distance *outdoors* will increase dilution of aerosols, and reduce the chance of infection. A good breeze will improve your protection further. BUT distance is not a reliable way to ensure protection. Masking will work outdoors just as well as, or better than, indoors! Simple surgical and cloth masks will greatly reduce the chance an contagious individual will infect others. If all parties wear N95 masks or higher grade elastomeric masks for the entire interaction, you'll have near perfect protection, no matter how close or vaccinated you are.
+
+2. Q: *Is there a way to protect children so they can play together outside without having them wear masks? (sometimes mask compliance with kids is easier than others and we want to keep them socialized)*
+
+A: Depending on your risk tolerance, there are a few non-mask options that may help. Choosing to play outside only on windy days might be a good option. You might also ask about their adult family's vaccination status, and how they have been protecting themselves from COVID. If all members of their household *always* wear high quality masks when sharing air with others, then their risk of *having* COVID is low in the first place. Protecting themselves helps protect you.
+
+3. Q: *3. Is there an at home saliva based test that can be purchased for same day results? If so, does this test measure whether you have covid or your capacity to spread it?*
+
+A: I (@ariccio) have personally seen and purchashed `Abbott BinaxNOW` COVID-19 self tests at my local Walgreens. 
+
+Back in *January 2021* the [CDC released a report](https://www.cdc.gov/mmwr/volumes/70/wr/mm7003e3.htm) that said (in part): 
+
+```
+Compared with real-time RT-PCR testing, the BinaxNOW antigen test had a sensitivity of 64.2% for specimens from symptomatic persons and 35.8% for specimens from asymptomatic persons, with near 100% specificity in specimens from both groups. Virus was cultured from 96 of 274 (35.0%) specimens, including 85 (57.8%) of 147 with concordant antigen and real-time RT-PCR positive results, 11 (8.9%) of 124 with false-negative antigen test results, and none of three with false-positive antigen test results.
+```
+
+*([see also, definitions of sensitivity and specificity](https://ebn.bmj.com/content/23/1/2).)*
+
+...in short, the sensitivity 
+
 # COVID Straight Talk
 
 If you're not familiar with them, they're an excellent group of individuals doing similar work! [Their website has excellent plain-english advice.](https://covidstraighttalk.org/) I will incorporate some of it here. Their central guidance mirrors that of scientists, but in an easily digestable image form:
